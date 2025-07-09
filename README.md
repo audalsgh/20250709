@@ -12,4 +12,4 @@
 ![KakaoTalk_20250709_085728404](https://github.com/user-attachments/assets/503c3f6c-a3b3-45bc-ada6-e7e7b998e57a)
 
 ## 2. 어제 0708에 했던 신호등 검출 문제 코드 추가 분석
-[김영빈님 코드](0708_openCV_신호등검출_김영빈님코드.ipynb)
+[김영빈님 코드](https://github.com/audalsgh/20250708/blob/main/0708_openCV_%EC%8B%A0%ED%98%B8%EB%93%B1%EA%B2%80%EC%B6%9C_%EA%B9%80%EC%98%81%EB%B9%88%EB%8B%98%EC%BD%94%EB%93%9C.ipynb)
