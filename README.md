@@ -12,8 +12,9 @@
 ![KakaoTalk_20250709_085728404](https://github.com/user-attachments/assets/503c3f6c-a3b3-45bc-ada6-e7e7b998e57a)
 
 ## 2. 어제 0708에 했던 신호등 검출 문제 코드 추가 분석
-[김영빈님 코드](https://github.com/audalsgh/20250708/blob/main/0708_openCV_%EC%8B%A0%ED%98%B8%EB%93%B1%EA%B2%80%EC%B6%9C_%EA%B9%80%EC%98%81%EB%B9%88%EB%8B%98%EC%BD%94%EB%93%9C.ipynb)
+[김영빈님 코드](https://github.com/audalsgh/20250708/blob/main/0708_openCV_%EC%8B%A0%ED%98%B8%EB%93%B1%EA%B2%80%EC%B6%9C_%EA%B9%80%EC%98%81%EB%B9%88%EB%8B%98%EC%BD%94%EB%93%9C.ipynb)<br>
 ![image](https://github.com/user-attachments/assets/6096ea2e-cb46-488b-b009-114fb62d3bf8)
+
 초록색 반투명 영역을 ROI영역으로 지정하신듯, 신호등 검출 영역을 좁게 지정해줌으로써 노이즈를 줄였다.<br>
 그러나, 실제 검출영역으로 쓰이고 있진 않다.<br>
 detect_traffic_light_canny() 함수내에서 새로 정의된 영역만 검출에 사용중이다.
